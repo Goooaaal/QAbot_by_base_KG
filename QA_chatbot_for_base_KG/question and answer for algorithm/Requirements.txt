@@ -1,0 +1,6 @@
+synonyms>=3.6
+pandas
+numpy
+python>=3.x
+nltk
+jieba
