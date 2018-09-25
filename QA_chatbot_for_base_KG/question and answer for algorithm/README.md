@@ -2,7 +2,7 @@
 pypi安装: windows（anaconda3）: pip install -U synonyms 或 pip install -r Requirements.txt
           linux: pip3 install synonyms 或 pip install -r Requirements.txt
 
-使用的训练数据集是原来小吴给的爬虫的答案数据（.csv文件）
+使用的训练数据集是爬虫的答案数据（.csv文件）
 
 predict.py 预测问题的短文本答案（短文本不得长于30个字符）
 
